@@ -1,8 +1,11 @@
 @import "tailwindcss";
 
 @theme {
-  --color-primary: #94e115;
-  --color-secondary: #ffffff;
-  --color-tertiary: #000000;
-  --color-quaternary: #383838;
+  --color-primary: #a3ff00; /* Verde neón más vibrante */
+  --color-secondary: #f3f4f6; /* Blanco suave */
+  --color-tertiary: #0a0a0a; /* Negro profundo casi puro */
+  --color-quaternary: #171717; /* Gris oscuro para secciones alternas */
+
+  --font-display: var(--font-orbitron);
+  --font-sans: var(--font-montserrat);
 }

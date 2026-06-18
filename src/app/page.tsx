@@ -10,7 +10,7 @@ import {
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-tertiary">
+    <main className="min-h-screen bg-black">
       <Hero />
       <About />
       <Courses />
